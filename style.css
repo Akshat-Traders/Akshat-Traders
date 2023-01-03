@@ -1,0 +1,169 @@
+h1,h2,p{
+
+text-align : center
+
+}
+
+.y{    
+    margin-top: 0%;
+    font-weight: bolder;
+    text-align: right;
+}
+
+body{
+
+background-image:url(https://img.freepik.com/premium-photo/old-wooden-texture-background-vintage_55716-1138.jpg?w=2000);
+background-size: cover;
+
+
+}
+.scrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.wood{
+    
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    
+}
+.si{
+    width: 180px;
+    height: 130px;
+    margin-right: 10%;
+    margin-left: 10%;
+    border: 2px solid black;
+    border-radius: 16px;
+}
+
+.wi{
+    width: 180px;
+    height: 130px;
+    margin-right: 20%;
+    
+    border: 2px solid black;
+    border-radius: 16px;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+  
+}
+.mob{
+    margin-right: 130px;
+    margin-left: 36px;
+    font-size: 23px;
+}
+
+.mob1{
+  margin-left:3% ;
+   font-size:20px;
+  
+}
+
+
+.my{
+
+width:80%;
+height:fit-content;
+background-color : wheat;
+margin : auto;
+
+}
+h3{
+    margin: 0%;
+}
+
+h2{
+font-size: 30px;
+
+}
+
+h1{
+font-size:50px;
+margin-top: 5px;
+
+
+}
+.Abhimanyu{
+font-size:20px;
+
+
+}
+.logo{
+height:80px;
+width:80px;
+border:3px solid goldenrod;
+border-radius:50%;
+margin-top:3px;
+
+}
+
+.traders{
+display: flex ;
+flex-direction:column;
+align-items: center ;
+justify-content: center ;
+flex-wrap : wrap ;
+margin-top: 0%;
+}
+
+.fa-mobile{
+font-size:40px;
+margin-right:1%;
+margin-left:3%;
+   
+}
+
+.ph{
+display:flex;
+flex-direction:row;
+margin: 0%;
+}
+
+.fa-envelope{
+font-size:40px;
+margin-left:3%;
+
+}
+
+.em{
+display:flex;
+flex-direction:row;
+margin: 0%;
+}
+
+.lo{
+display:flex;
+flex-direction:row;
+justify-content: center;
+align-items: center;
+font-size: larger;
+}
+
+.fa-address-book{
+font-size :50px;
+margin-top:9px;
+margin-right:3%;
+margin-left:-2%;
+}
+
+
+.tanmay{
+
+display:flex;
+flex-direction:row;
+
+}
+
+.chyh{
+
+    display:flex;
+    flex-direction:row;
+
+}
